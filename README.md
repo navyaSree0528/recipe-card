@@ -3,6 +3,8 @@
 
 An **interactive recipe card** built with **HTML, CSS, and JavaScript**, featuring animations and transitions.  
 This project demonstrates how to combine **layout, styling, responsiveness, and interactivity** in a creative way.  
+## 🔗 Live Demo
+👉 [View Recipe Card Here](https://navyaSree0528.github.io/recipe-card/)
 
 
 ## ✨ Features
